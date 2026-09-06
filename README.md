@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetna Nagar</h1>
-<h3 align="center">A passionate Frontend Developer & Data Science Undergraduate @ IIT Madras from India</h3>
+<h3 align="center">A passionate Software & AI/ML Engineer and Data Science Undergraduate @ IIT Madras.</h3>
 
 - 🎓 B.S. in Data Science  
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All my projects are available at [https://github.com/Chetna2912](https://github.com/Chetna2912)
 
-- ⚡ Fun fact : I enjoy solving DSA problems and building clean UI experiences.
+- ⚡ Fun fact: I enjoy solving DSA problems and building clean UI experiences.
 
-- 📫 How to reach me **chetnanagar2912@gmail.com**
+- 📫 How to reach me: **chetnanagar2912@gmail.com**
 
-- 📄 Know more about my experience **https://drive.google.com/file/d/1jclB0s2hyAsHUDA_BYr1EOxnnbhpFMVl/view?usp=sharing**
+- 📄 Know more about my experience: **https://drive.google.com/file/d/1jclB0s2hyAsHUDA_BYr1EOxnnbhpFMVl/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
