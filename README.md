@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetna Nagar</h1>
-<h3 align="center">A passionate frontend deSoftware Engineering & Data Science Undergraduate @ IIT Madrasveloper from India</h3>
+<h3 align="center">A passionate frontend Software Egineering & Data Science Undergraduate @ IIT Madras developer from India</h3>
 
 - 🎓 B.S. in Data Science  
 
