@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetna Nagar</h1>
 <h3 align="center">A passionate frontend deSoftware Engineering & Data Science Undergraduate @ IIT Madrasveloper from India</h3>
 
-- 🎓 B.S. in Data Science **🎓 
+- 🎓 B.S. in Data Science  
 
 - 🤖 Interested in **Machine Learning, Deep Learning, NLP & Generative AI**
 
