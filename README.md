@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chetna2912](https://github.com/Chetna2912)
 
-- ⚡ Fun fact [I enjoy solving DSA problems and building clean UI experiences.](I enjoy solving DSA problems and building clean UI experiences.)
+- ⚡ Fun fact I enjoy solving DSA problems and building clean UI experiences.
 
 - 📫 How to reach me **chetnanagar2912@gmail.com**
 
